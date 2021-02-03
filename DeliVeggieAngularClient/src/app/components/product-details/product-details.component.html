@@ -1,0 +1,23 @@
+<div style="margin-left: 16px;">
+<div class="col-md->9">
+    <h1>Product Details!</h1>
+    <div>
+    <h3>
+    Name:
+    </h3>
+    <p>{{currentProduct.name}}</p>
+    <h3>
+    Description:
+    </h3>
+    <p>{{currentProduct.description}}</p>
+    <h3>
+    Price:
+    </h3>
+    <p>{{currentProduct.price | number: '.2'}} Euro</p>
+
+    </div>
+    <div>
+        <a routerLink="/products" class="nav-link">Back to Productslist</a>
+    </div>
+</div>
+</div>
