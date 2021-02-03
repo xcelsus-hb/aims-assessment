@@ -1211,11 +1211,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj",
+      "projectUniqueName": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj",
       "projectName": "DeliVeggie.DAC",
-      "projectPath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj",
+      "projectPath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj",
       "packagesPath": "C:\\Users\\HorstBlechinger(Xcel\\.nuget\\packages\\",
-      "outputPath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.DAC\\obj\\",
+      "outputPath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.DAC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -1236,8 +1236,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj": {
-              "projectPath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj"
+            "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj": {
+              "projectPath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj"
             }
           }
         }

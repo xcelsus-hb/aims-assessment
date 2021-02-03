@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MoV6NlbHGE5MtERASY88eC/77cqkWfE8pp6siXzrQJ4In5q78n7qYK5Il3mlX8YiT5f8zBvVKx+6vPhEfn3sOg==",
+  "dgSpecHash": "8OPbFHwMu5NFVBbMMAwKhyTV5GMDtvVX7QsTZVGrqP3EIpnVfyiKWSHgtksEvo5j6V/BkWrLx8ipESJL35hsjQ==",
   "success": true,
-  "projectFilePath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj",
+  "projectFilePath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HorstBlechinger(Xcel\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\HorstBlechinger(Xcel\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

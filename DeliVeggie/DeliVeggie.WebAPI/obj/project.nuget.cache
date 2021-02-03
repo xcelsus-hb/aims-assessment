@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "81dL06iYQ/+4htTYhvc6MSAR3AJ/EtsxKs7YOcje3Vzw0Asu3+2QulfkgNktQoF+2+f5uwwRKIQQZBXtIV58BQ==",
+  "dgSpecHash": "VH2+MVI+Mf3A2ugJiNAs2hoDEEM2Z4+3Ii5eyELMEa5JD9WMPFr2b5MIY+SGRZGUr0uQsqGJNuc+TaKaD1e2fw==",
   "success": true,
-  "projectFilePath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.WebAPI\\DeliVeggie.WebAPI.csproj",
+  "projectFilePath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.WebAPI\\DeliVeggie.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HorstBlechinger(Xcel\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\HorstBlechinger(Xcel\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

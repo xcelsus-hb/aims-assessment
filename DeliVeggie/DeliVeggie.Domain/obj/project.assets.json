@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj",
+      "projectUniqueName": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj",
       "projectName": "DeliVeggie.Domain",
-      "projectPath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj",
+      "projectPath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj",
       "packagesPath": "C:\\Users\\HorstBlechinger(Xcel\\.nuget\\packages\\",
-      "outputPath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.Domain\\obj\\",
+      "outputPath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

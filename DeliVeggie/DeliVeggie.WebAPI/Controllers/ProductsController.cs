@@ -24,6 +24,7 @@ namespace DeliVeggie.WebAPI.Controllers
         public ProductsController(IMQProductsRequestor mqProductsRequestor, IProductRepository productRepository)
         {
             _mqProductsRequestor = mqProductsRequestor;
+            _productRepository = productRepository;
         }
 
 

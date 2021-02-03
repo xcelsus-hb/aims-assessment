@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/BwxmTuSKsNx9a4IoI3YD02V722pL85ceshzK5mP522Qcpvq860i6P0kwvqGPXSVMjLZF5u+hjEIcuLeDUt7WQ==",
+  "dgSpecHash": "+56HizJs9hLLr7uPcbyD+/eh1B2L60MAAOjcn/4PjtKWKe4Uh82CEKzdvKYhcTJ81EfI659Hm2xepIiDzuUf0w==",
   "success": true,
-  "projectFilePath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.PriceAdjuster\\DeliVeggie.PriceAdjuster.csproj",
+  "projectFilePath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.PriceAdjuster\\DeliVeggie.PriceAdjuster.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HorstBlechinger(Xcel\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\HorstBlechinger(Xcel\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

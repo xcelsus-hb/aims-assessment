@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.PriceAdjuster\\DeliVeggie.PriceAdjuster.csproj": {}
+    "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.PriceAdjuster\\DeliVeggie.PriceAdjuster.csproj": {}
   },
   "projects": {
-    "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj": {
+    "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj",
+        "projectUniqueName": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj",
         "projectName": "DeliVeggie.DAC",
-        "projectPath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj",
+        "projectPath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj",
         "packagesPath": "C:\\Users\\HorstBlechinger(Xcel\\.nuget\\packages\\",
-        "outputPath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.DAC\\obj\\",
+        "outputPath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.DAC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,8 +32,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj": {
-                "projectPath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj"
+              "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj": {
+                "projectPath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj": {
+    "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj",
+        "projectUniqueName": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj",
         "projectName": "DeliVeggie.Domain",
-        "projectPath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj",
+        "projectPath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj",
         "packagesPath": "C:\\Users\\HorstBlechinger(Xcel\\.nuget\\packages\\",
-        "outputPath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.Domain\\obj\\",
+        "outputPath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.PriceAdjuster\\DeliVeggie.PriceAdjuster.csproj": {
+    "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.PriceAdjuster\\DeliVeggie.PriceAdjuster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.PriceAdjuster\\DeliVeggie.PriceAdjuster.csproj",
+        "projectUniqueName": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.PriceAdjuster\\DeliVeggie.PriceAdjuster.csproj",
         "projectName": "DeliVeggie.PriceAdjuster",
-        "projectPath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.PriceAdjuster\\DeliVeggie.PriceAdjuster.csproj",
+        "projectPath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.PriceAdjuster\\DeliVeggie.PriceAdjuster.csproj",
         "packagesPath": "C:\\Users\\HorstBlechinger(Xcel\\.nuget\\packages\\",
-        "outputPath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.PriceAdjuster\\obj\\",
+        "outputPath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.PriceAdjuster\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -174,11 +174,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj": {
-                "projectPath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj"
+              "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj": {
+                "projectPath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.DAC\\DeliVeggie.DAC.csproj"
               },
-              "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj": {
-                "projectPath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj"
+              "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj": {
+                "projectPath": "C:\\Projekte\\Assessment\\Code\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj"
               }
             }
           }

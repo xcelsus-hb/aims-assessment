@@ -16,6 +16,7 @@ namespace DeliVeggie.DAC.Repositories.Products
 
 
         private readonly IMongoCollection<Product> _productsCollection;
+        private readonly IMongoCollection<PriceReduction> _priceReductionCollection;
 
         private readonly IMapper _mapper;
 
@@ -25,6 +26,7 @@ namespace DeliVeggie.DAC.Repositories.Products
             var database = mongoClient.GetDatabase(settings.DatabaseName);
 
             _productsCollection = database.GetCollection<Product>(nameof(Product));
+            _priceReductionCollection = database.GetCollection<PriceReduction>(nameof(PriceReduction));
 
             _mapper = mapper;
         }
@@ -43,7 +45,22 @@ namespace DeliVeggie.DAC.Repositories.Products
             var filter = Builders<Product>.Filter.Eq(c => c.Id, objectId);
             var product = await _productsCollection.Find(filter).FirstOrDefaultAsync();
 
+
+
+
             ProductDTO productDTO = _mapper.Map<ProductDTO>(product);
+
+            var priceReductions = await _priceReductionCollection.Find(_ => true).ToListAsync();
+            var reduction = priceReductions.FirstOrDefault(r => r.DayOfWeek == (int)productDTO.EntryDate.DayOfWeek);
+            if (reduction != null)
+            {
+                var newPrice = product.Price * (1.0 - reduction.Reduction);
+
+                // description with normal has to be set first. Because of the price change!!!
+                productDTO.Description = "It' a bargain on " + product.EntryDate.DayOfWeek + ". You get a " + (reduction.Reduction * 100).ToString() + "% reduction. Normal price would be " + product.Price.ToString();
+                productDTO.Price = newPrice;
+            }
+
             return productDTO;
         }
 
