@@ -1,0 +1,8 @@
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.Domain\bin\Debug\netstandard2.0\DeliVeggie.Domain.deps.json
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.Domain\bin\Debug\netstandard2.0\DeliVeggie.Domain.dll
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.Domain\bin\Debug\netstandard2.0\DeliVeggie.Domain.pdb
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.Domain\obj\Debug\netstandard2.0\DeliVeggie.Domain.AssemblyInfoInputs.cache
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.Domain\obj\Debug\netstandard2.0\DeliVeggie.Domain.AssemblyInfo.cs
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.Domain\obj\Debug\netstandard2.0\DeliVeggie.Domain.csproj.CoreCompileInputs.cache
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.Domain\obj\Debug\netstandard2.0\DeliVeggie.Domain.dll
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.Domain\obj\Debug\netstandard2.0\DeliVeggie.Domain.pdb

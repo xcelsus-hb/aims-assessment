@@ -1,0 +1,12 @@
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.DAC\bin\Debug\netstandard2.0\DeliVeggie.DAC.deps.json
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.DAC\bin\Debug\netstandard2.0\DeliVeggie.DAC.dll
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.DAC\bin\Debug\netstandard2.0\DeliVeggie.DAC.pdb
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.DAC\obj\Debug\netstandard2.0\DeliVeggie.DAC.csprojAssemblyReference.cache
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.DAC\obj\Debug\netstandard2.0\DeliVeggie.DAC.AssemblyInfoInputs.cache
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.DAC\obj\Debug\netstandard2.0\DeliVeggie.DAC.AssemblyInfo.cs
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.DAC\obj\Debug\netstandard2.0\DeliVeggie.DAC.csproj.CoreCompileInputs.cache
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.DAC\obj\Debug\netstandard2.0\DeliVeggie.DAC.dll
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.DAC\obj\Debug\netstandard2.0\DeliVeggie.DAC.pdb
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.DAC\bin\Debug\netstandard2.0\DeliVeggie.Domain.dll
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.DAC\bin\Debug\netstandard2.0\DeliVeggie.Domain.pdb
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.DAC\obj\Debug\netstandard2.0\DeliVeggie.DAC.csproj.CopyComplete

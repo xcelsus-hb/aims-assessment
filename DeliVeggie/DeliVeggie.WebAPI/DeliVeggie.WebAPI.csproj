@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>99f0b2af-05fd-4aae-abea-1031ae4c0e49</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DeliVeggie.DAC\DeliVeggie.DAC.csproj" />
+    <ProjectReference Include="..\DeliVeggie.Domain\DeliVeggie.Domain.csproj" />
+    <ProjectReference Include="..\DeliVeggie.MQClient\DeliVeggie.MQClient.csproj" />
+  </ItemGroup>
+
+
+</Project>

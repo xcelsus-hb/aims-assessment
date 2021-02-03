@@ -1,0 +1,12 @@
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.MQClient\obj\Debug\netstandard2.0\DeliVeggie.MQClient.csprojAssemblyReference.cache
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.MQClient\obj\Debug\netstandard2.0\DeliVeggie.MQClient.AssemblyInfoInputs.cache
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.MQClient\obj\Debug\netstandard2.0\DeliVeggie.MQClient.AssemblyInfo.cs
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.MQClient\obj\Debug\netstandard2.0\DeliVeggie.MQClient.csproj.CoreCompileInputs.cache
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.MQClient\bin\Debug\netstandard2.0\DeliVeggie.MQClient.deps.json
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.MQClient\bin\Debug\netstandard2.0\DeliVeggie.MQClient.dll
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.MQClient\bin\Debug\netstandard2.0\DeliVeggie.MQClient.pdb
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.MQClient\bin\Debug\netstandard2.0\DeliVeggie.Domain.dll
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.MQClient\bin\Debug\netstandard2.0\DeliVeggie.Domain.pdb
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.MQClient\obj\Debug\netstandard2.0\DeliVeggie.MQClient.csproj.CopyComplete
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.MQClient\obj\Debug\netstandard2.0\DeliVeggie.MQClient.dll
+C:\Projekte\Assessment\DeliVeggie\DeliVeggie.MQClient\obj\Debug\netstandard2.0\DeliVeggie.MQClient.pdb

@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\HorstBlechinger(Xcel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HorstBlechinger(Xcel\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}

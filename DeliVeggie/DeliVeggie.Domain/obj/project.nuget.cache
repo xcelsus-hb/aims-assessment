@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q1N5j+7eXCaMko2eWrTMiCBzWj+FHyCTiuQKvGvMmdeeVMHSR5r21/6ek7HbCsFsd4cQCx6dcfMoAYr6n8rxlA==",
+  "success": true,
+  "projectFilePath": "C:\\Projekte\\Assessment\\DeliVeggie\\DeliVeggie.Domain\\DeliVeggie.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HorstBlechinger(Xcel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HorstBlechinger(Xcel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

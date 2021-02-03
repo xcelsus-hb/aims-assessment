@@ -1,0 +1,11 @@
+###################################################################################################################
+# First run this commands to start your Docker Containers. File Paths have to adjusted first to your environment.
+###################################################################################################################
+
+docker network create –-driver bridge deliveggienet_standalone
+
+docker run --name deliveggie_mongo_standalone -e MONGO_INITDB_ROOT_USERNAME=root -e MONGO_INITDB_ROOT_PASSWORD=xcelsus4132 -v C:\Projekte\Assessment\MongoDB\Data:/data/db --network deliveggienet_standalone -p 27017:27017 -d mongo
+
+docker run --network deliveggienet_standalone --name deliveggie_mongo_express_standalone -d -e ME_CONFIG_MONGODB_SERVER=deliveggie_mongo_standalone -e ME_CONFIG_MONGODB_ADMINUSERNAME=root -e ME_CONFIG_MONGODB_ADMINPASSWORD=xcelsus4132 -p 8081:8081 mongo-express
+
+docker run -d --hostname deliveggie-rabbit --name deliveggie-rabbit -e RABBITMQ_DEFAULT_USER=rmquser -e RABBITMQ_DEFAULT_PASS=xcelsus4132 --network deliveggienet_standalone -p 15672:15672 -p 5672:5672 rabbitmq:3-management
